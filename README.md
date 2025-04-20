@@ -106,8 +106,8 @@ This will start the React app on `http://localhost:3000`
 ---
 
 ## Contributors
-- Ritesh (https://github.com/riteshkoranga)- Frontend & Backend & API Integration
-- Ankush (https://github.com/ANKUSH-001)- Frontend & Adaptive AI Logic
+- Ritesh (https://github.com/riteshkoranga) - Frontend & Backend & API Integration
+- Ankush (https://github.com/ANKUSH-001) - Frontend & Adaptive AI Logic
 
 ---
 
